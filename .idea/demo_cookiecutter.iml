@@ -3,9 +3,9 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/{{cookiecutter.project}}/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/{{cookiecutter.project}}/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/{{cookiecutter.project}}/build" />
+      <excludeFolder url="file://$MODULE_DIR$/{{cookiecutter.app_name}}/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/{{cookiecutter.app_name}}/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/{{cookiecutter.app_name}}/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
